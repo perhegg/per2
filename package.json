@@ -23,5 +23,9 @@
     "watch": "webpack --progress --watch --mode=development",
     "cucumber": "superstatic -p 3000 2> /dev/null & cucumber-js; lsof -ti tcp:3000 | xargs kill"
   },
+<<<<<<< HEAD
   "repository": "https://github.com/perhegg/per2.git"
+=======
+  "repository": "https://github.com/aleciabenjamin/Address_Book.git"
+>>>>>>> 63d1101c1b5f38f8632d18190a4432320280aa33
 }
