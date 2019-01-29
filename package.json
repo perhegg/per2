@@ -1,0 +1,7 @@
+{
+  "name": "address",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Per Eriksson <per_hegg@hotmail.com>",
+  "license": "MIT"
+}
